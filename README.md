@@ -11,4 +11,4 @@ The goal is for the agent to learn how to control the car and gain as many rewar
 
 Here is an example:
 
-![Alt Text]()
+![Alt Text](https://github.com/itsMyrto/CarRacing-v2-gymnasium/blob/main/CarVideo.gif)
